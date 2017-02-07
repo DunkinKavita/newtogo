@@ -1,0 +1,2 @@
+# newtogo
+learning go
